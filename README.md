@@ -10,4 +10,3 @@ The app also uses biometrics at launch.
 ## Project Screen
 
 <img src="images/BucketList1.png" width="300">   <img src="images/BucketList2.png" width="300">   <img src="images/BucketList3.png" width="300">
-

@@ -49,6 +49,7 @@
 		B1E19A932869762100E28440 = {
 			isa = PBXGroup;
 			children = (
+				B151450228B8D8BB00E7F60B /* README.md */,
 				B1E19A9E2869762100E28440 /* BucketList */,
 				B1E19A9D2869762100E28440 /* Products */,
 			);
@@ -75,7 +76,6 @@
 				B1E19AB3286AD72200E28440 /* Result.swift */,
 				B1E19AA32869762400E28440 /* Assets.xcassets */,
 				B1E19AA52869762400E28440 /* Preview Content */,
-				B151450228B8D8BB00E7F60B /* README.md */,
 			);
 			path = BucketList;
 			sourceTree = "<group>";

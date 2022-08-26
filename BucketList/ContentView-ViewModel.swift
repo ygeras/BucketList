@@ -82,6 +82,5 @@ extension ContentView {
                 }
             }
         }
-        
     }
 }
